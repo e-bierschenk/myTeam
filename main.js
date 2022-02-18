@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const birthdayLog = () => {
     let ericBirthday = "6-12-68"
     let coryBirthday = "2-18-42"
@@ -8,3 +9,6 @@ const birthdayLog = () => {
 }
 
 const listOfBirthdays = birthdayLog()
+=======
+console.log('hello!')
+>>>>>>> main
