@@ -11,3 +11,4 @@ const nameLog = (obj) => {
 nameLog(name1)
 nameLog(name2)
 nameLog(name3)
+console.log('hello!')
